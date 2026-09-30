@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "Borracharia Central — Pato Branco" },
+    { "path": "/servicos/", "title": "Serviços — Borracharia Central" },
+    { "path": "/sobre/", "title": "Sobre — Borracharia Central" },
+    { "path": "/contato/", "title": "Contato e localização — Borracharia Central" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Borracharia Central",
+  "short_name": "Borracharia Central",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F0E7",
+  "theme_color": "#174A3A",
+  "icons": [{ "src": "/assets/logo-borracharia-central-final.png", "sizes": "any", "type": "image/png" }]
+}
